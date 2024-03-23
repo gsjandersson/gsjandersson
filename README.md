@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gsjandersson. My real name is Gustav Andersson and I am currently enrolled at Uppsala Universitet. 
 - 👀 I’m interested in networks, security, freedom of the internet and more. 
-- 🌱 I’m currently learning HTML, CSS, Linux, JS, VIM. 
-- 💞️ I’m looking to collaborate on school projects because I have to hahahahha
+- 🌱 I’m currently learning React, MongoDB, Cloud computing and GitHub Actions
 - 📫 How to reach me: gustav.andersson.git@protonmail.com
 
 <!---
